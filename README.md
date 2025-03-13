@@ -11,6 +11,23 @@
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>💻 Generalist full-stack web developer <br>🔥 Not a vibe coder for sure<br>⚡ Can quit vim<br>📚 I'm currently learning Kubernetes and C programming language<br>🎨 Passionate about learning new things, browser APIs, devops tooling, low-level coding <br>🎯 I'd love to collaborate on node.js, golang, laravel and vanilla.js projects</p><p>Most of my works are in private repos so, sorry for that. Anyhow, you can find some of my works <a href="https://freeterium.com/en/works">here</a></p>
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<p align="left">
+  <a href="[https://linkedin.com/in/daviti-tchkoidze](https://www.linkedin.com/in/daviti-tchkoidze-88a28134b/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dchkoydze@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/Dtchkoidze" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 ###
 
