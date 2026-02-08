@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>💻 Generalist full-stack web developer <br>🔥 Not a vibe coder for sure<br>⚡ Can quit vim<br>📚 I'm currently learning Kubernetes and C programming language<br>🎨 Passionate about learning new things, browser APIs, devops tooling, low-level coding <br>🎯 I'd love to collaborate on node.js, golang, laravel and vanilla.js projects</p><p>Most of my works are in private repos so, sorry for that. Anyhow, you can find some of my works <a href="https://freeterium.com/en/works">here</a></p>
+<p align="left">✨ Creating bugs since 2021<br>💻 Generalist full-stack web developer <br>🔥 Not a vibe coder for sure<br>⚡ Can quit vim<br>📚 I'm currently learning Kubernetes and C programming language<br>🎨 Passionate about learning new things, browser APIs, devops tooling, low-level coding <br>🎯 I'd love to collaborate on js/ts, C and golang projects</p><p>Most of my works are in private repos so, sorry for that. Anyhow, you can find some of my works <a href="https://freeterium.com/en/works">here</a></p>
 
 ###
 
