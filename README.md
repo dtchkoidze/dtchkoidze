@@ -1,8 +1,4 @@
-My name is Daviti Tchkoidze and I'm a software developer.
-
-## About me
-
-Can quit vim. Currently learning Kubernetes and C. Passionate about browser APIs, devops tooling, and low-level coding. Most of my work is in private repos — happy to collaborate on JS/TS, C, and Go projects.
+Can quit vim. Passionate about systems, RDBMs, devops tooling, and low-level coding. Most of my work is in private repos, so sorry. I'd be happy to collaborate on Odin, C, and Go projects.
 
 ## Connect
 
