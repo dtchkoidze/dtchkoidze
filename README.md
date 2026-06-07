@@ -2,4 +2,4 @@ Can quit vim. Passionate about systems, RDBMs, devops tooling, and low-levelish 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/daviti-tchkoidze-88a28134b/) · [Twitter](https://twitter.com/Dtchkoidze) · [dchkoydze@gmail.com](mailto:dchkoydze@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/daviti-tchkoidze-88a28134b/) · [Twitter](https://twitter.com/Dtchkoidze) · [dtchkoiddze@gmail.com](mailto:dtchkoiddze@gmail.com)
