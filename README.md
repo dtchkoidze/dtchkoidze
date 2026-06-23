@@ -1,4 +1,4 @@
-Can quit vim. Passionate about systems, RDBMs, devops tooling, and low-levelish coding. Most of my work is in private repos, so sorry. I'd be happy to collaborate on Odin, C, and Go projects.
+Can quit vim. I like systems, RDBMs, devops tooling, and low-levelish coding. Most of my work is in private repos, so sorry. I'd be happy to collaborate on Odin, C, Go and whatever else projects.
 
 ## Connect
 
